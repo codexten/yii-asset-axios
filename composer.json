@@ -4,7 +4,7 @@
   "description": "axios asset for yii 2.0 or higher",
   "require": {
     "codexten/yii-web": "~2.0.0",
-    "bower-asset/axios": "~0.18.1"
+    "npm-asset/axios": "~0.18.1"
   },
   "autoload": {
     "psr-4": {
