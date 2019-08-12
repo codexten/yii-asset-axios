@@ -1,0 +1,19 @@
+{
+  "name": "codexten/yii-asset-axios",
+  "type": "library",
+  "description": "axios asset for yii 2.0 or higher",
+  "require": {
+    "codexten/yii-web": "~2.0.0",
+    "bower-asset/axios": "~0.18.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "codexten\\yii\\web\\assets\\axios\\": "src"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "2.0.x-dev"
+    }
+  }
+}
